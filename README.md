@@ -9,11 +9,30 @@ This is complete job finding and posting web application that is made using lara
 
 Here are some screenshots of the project:
 
+### Homepage
+
 ![Main Page](screenshots/homepage1.png)
+
 ![Main Page](screenshots/homepage2.png)
+
 ![Main Page](screenshots/homepage3.png)
+
+### Register Page
+
 ![Register](screenshots/register.png)
+
+### Profile Page
+
 ![Profile](screenshots/profile.png)
+
+### Post Job Page
+
 ![Post Job](screenshots/postjob.png)
+
+### MyJobs Page
+
 ![My Jobs](screenshots/myjobs.png)
+
+### FindJobs Page
+
 ![Find Jobs](screenshots/findjobs.png)
